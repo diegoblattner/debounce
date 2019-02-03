@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "description": "A simple debounce function",
   "main": "src/debounce.js",
-  "repository": "https://github.com/diegoblattner/debounce.git",
-  "author": "Diego Blattner <diegoblattner@hotmail.com>",
+  "author": "Diego Blattner",
   "license": "MIT",
   "private": false,
   "devDependencies": {
@@ -19,5 +18,16 @@
   "scripts": {
     "test": "jest",
     "eslint": "eslint src"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegoblattner/debounce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diegoblattner/debounce/issues"
+  },
+  "keywords": [
+    "debounce",
+    "defer function execution"
+  ]
 }
