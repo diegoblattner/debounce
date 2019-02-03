@@ -17,7 +17,7 @@
   },
   "scripts": {
     "test": "jest",
-    "eslint": "eslint src"
+    "lint": "eslint src"
   },
   "repository": {
     "type": "git",
