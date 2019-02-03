@@ -1,0 +1,23 @@
+{
+  "name": "debounce",
+  "version": "0.0.0",
+  "description": "A simple debounce function",
+  "main": "src/debounce.js",
+  "repository": "https://github.com/diegoblattner/debounce.git",
+  "author": "Diego Blattner <diegoblattner@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "jest": "^24.0.0",
+    "prettier": "^1.16.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "eslint": "eslint src"
+  }
+}
